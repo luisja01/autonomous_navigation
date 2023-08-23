@@ -1,1 +1,1 @@
-# autonomous_navigation
+# Autonomous navigation algorithms of mobile robots
